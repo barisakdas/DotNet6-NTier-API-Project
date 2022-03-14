@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using CoreLayer.Entity;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using CoreLayer.Entity;
+global using RepositoryLayer.Config;
+global using System.Reflection;
+global using CoreLayer.Interfaces.Repositories;
+global using RepositoryLayer.Context;
+global using System.Linq.Expressions;

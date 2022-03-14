@@ -1,0 +1,32 @@
+﻿global using System.Reflection;
+global using CoreLayer.Interfaces.Repositories;
+global using CoreLayer.UnitOfWorks;
+global using Microsoft.EntityFrameworkCore;
+global using RepositoryLayer.Context;
+global using RepositoryLayer.Repositories;
+global using RepositoryLayer.UnitOfWork;
+global using CoreLayer.Interfaces.Services;
+global using ServiceLayer.Mapping;
+global using ServiceLayer.Services;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using AutoMapper;
+global using CoreLayer.Dtos.CustomResponseDto;
+global using CoreLayer.Entity;
+global using CoreLayer.Dtos;
+global using CoreLayer.Dtos.ResponseDto;
+global using FluentValidation.AspNetCore;
+global using ServiceLayer.Validation;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using ApiLayer.Filters;
+global using Microsoft.AspNetCore.Diagnostics;
+global using ServiceLayer.Exceptions;
+global using System.Text.Json;
+global using CoreLayer.Entity.Base;
+global using Autofac;
+global using ApiLayer.Middlewares;
+global using ApiLayer.Modules;
+global using Autofac.Extensions.DependencyInjection;
+global using CacheLayer.ServiceWithCache;
+
+

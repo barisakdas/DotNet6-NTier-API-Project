@@ -1,0 +1,17 @@
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\CacheLayer.deps.json
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\CacheLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\ref\CacheLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\CacheLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.AssemblyInfoInputs.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.AssemblyInfo.cs
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.csproj.CoreCompileInputs.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\ref\CacheLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.csproj.AssemblyReference.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Cache\CacheLayer\obj\Debug\net6.0\CacheLayer.csproj.CopyComplete

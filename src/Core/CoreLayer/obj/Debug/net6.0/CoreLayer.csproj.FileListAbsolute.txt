@@ -1,0 +1,12 @@
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\bin\Debug\net6.0\ref\CoreLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Core\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache

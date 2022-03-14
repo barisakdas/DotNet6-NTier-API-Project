@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "febff1eb-c70b-45a1-a15b-7ca3566be3e1": {
+      "ProjectGuid": "febff1eb-c70b-45a1-a15b-7ca3566be3e1",
+      "DisplayName": "Core",
+      "ColorIndex": 0
+    },
+    "b2b55558-b7ec-4b7e-b00a-17f6a0188f7f": {
+      "ProjectGuid": "b2b55558-b7ec-4b7e-b00a-17f6a0188f7f",
+      "DisplayName": "CoreLayer",
+      "ColorIndex": 1
+    },
+    "862617aa-cd72-4963-8f59-2489ac4fdf9c": {
+      "ProjectGuid": "862617aa-cd72-4963-8f59-2489ac4fdf9c",
+      "DisplayName": "RepositoryLayer",
+      "ColorIndex": 2
+    },
+    "5c8c15a5-eb9d-4e4c-8086-711c01ab4ca1": {
+      "ProjectGuid": "5c8c15a5-eb9d-4e4c-8086-711c01ab4ca1",
+      "DisplayName": "ServiceLayer",
+      "ColorIndex": 3
+    },
+    "74aec2c6-4d04-4bf6-9ada-209b83571cd4": {
+      "ProjectGuid": "74aec2c6-4d04-4bf6-9ada-209b83571cd4",
+      "DisplayName": "CacheLayer",
+      "ColorIndex": 4
+    },
+    "fea3b975-9a79-4020-a17a-1986a555f842": {
+      "ProjectGuid": "fea3b975-9a79-4020-a17a-1986a555f842",
+      "DisplayName": "ApiLayer",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d5489b41-d627-43a1-b9a3-9e36d6abdd55": {
+      "ProjectGuid": "d5489b41-d627-43a1-b9a3-9e36d6abdd55",
+      "DisplayName": "ServiceLayer",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

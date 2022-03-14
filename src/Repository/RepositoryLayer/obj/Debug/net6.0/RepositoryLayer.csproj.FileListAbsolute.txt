@@ -1,0 +1,17 @@
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\ref\RepositoryLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\.Net 6.0 Projects\DotNet6-NTierArchitecture\src\Repository\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
